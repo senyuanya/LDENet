@@ -1,5 +1,5 @@
 # Neural network stochastic differential equation models with applications to financial data forecasting 
-This repo contains our code for paper: [Neural network stochastic differential equation models with applications to financial data forecasting](http://arxiv.org/abs/2111.13164).
+This repo contains our code for paper: [Neural network stochastic differential equation models with applications to financial data forecasting](https://doi.org/10.1016/j.apm.2022.11.001).
 It includes code for Cao's Method and the LDENet model we proposed. Cao's Method is used for calculating the best embedding dimension. LDENet model is used for forecasting time seires.  The paper has been accepted by "Applied Mathematical Modelling ".
 
 ## Abstract
@@ -8,10 +8,11 @@ In this article, we employ a collection of stochastic differential equations wit
 
 If you find this implementation useful and want to cite/mention this paper, here is a bibtex citation:
 ```
-@article{yang2021neural,
-  title={NEURAL NETWORK STOCHASTIC DIFFERENTIAL EQUATION MODELS WITH APPLICATIONS TO FINANCIAL DATA FORECASTING},
+@article{yang2022neural,
+  title={Neural network stochastic differential equation models with applications to financial data forecasting},
   author={Yang, Luxuan and Gao, Ting and Lu, Yubin and Duan, Jinqiao and Liu, Tao},
-  journal={arXiv preprint arXiv:2111.13164},
-  year={2021}
+  journal={Applied Mathematical Modelling},
+  year={2022},
+  publisher={Elsevier}
 }
 ```
